@@ -1,0 +1,4 @@
+# Direct dependencies tested for recovered 00_data_QA-1.py only.
+# Tested with Python 3.12.14; historical dependency versions are unknown.
+numpy==2.3.5
+pandas==2.2.3

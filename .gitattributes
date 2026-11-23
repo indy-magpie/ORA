@@ -1,0 +1,3 @@
+# Preserve the exact bytes of recovered artifacts, including CSV line endings.
+recovered/** -text
+*.xlsx -diff
